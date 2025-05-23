@@ -1,9 +1,3 @@
 # 3aexemplo
 
-## subtítulo
-
-_itálico_
-
-**negrito**
-
-[música](youtube.com)
+Atividade 2° Trimestre
